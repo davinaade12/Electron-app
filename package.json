@@ -1,0 +1,16 @@
+{
+  "name": "internship-project",
+  "version": "1.0.0",
+  "description": "electron app ",
+  "keywords": [
+    "electron",
+    "terminal"
+  ],
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
